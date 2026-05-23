@@ -2,5 +2,6 @@
   <Folder Name="/Solution Items/">
     <File Path=".editorconfig" />
   </Folder>
+  <Project Path="ProductionStatus.Tests/ProductionStatus.Tests.csproj" />
   <Project Path="ProductionStatus/ProductionStatus.csproj" />
 </Solution>
